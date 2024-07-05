@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+ <html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+       
+    </style>
+    <style>
+        #h1{
+        margin-top: 30px;
+       
+        }
+        #d1{
+            background-color: #ecd7d2;
+        }
+        #m1{
+            height: 355px;
+            width:400px;
+            float:left;
+            margin-left: 30px;
+            margin-right: 20px;
+        }
+
+        /* #b1{
+            height:50px;
+            width:50px;
+        } */
+         #a1{
+            text-decoration: none;
+            color: yellow;
+            background-color: #451207  ;
+            border-radius: 10px;
+            padding:20px;
+            margin-top: 10px;
+            margin-left: 50px;
+            margin-right:20px;
+            
+         }
+         #a2{
+            text-decoration: none;
+            color: yellow;
+            background-color: #451207  ;
+            border-radius: 10px;
+            padding:20px;
+            margin-left: 150px;
+            
+         } 
+         #a3{
+            text-decoration: none;
+            color: yellow;
+            background-color: #451207  ;
+            border-radius: 10px;
+            padding:20px;
+            margin-left: 150px;
+            
+         } 
+         #a4{
+            text-decoration: none;
+            color: yellow;
+            background-color: #451207  ;
+            border-radius: 10px;
+            padding:20px;
+            margin-left: 150px;
+            
+         } 
+         #a5{
+            text-decoration: none;
+            color: yellow;
+            background-color: #451207  ;
+            border-radius: 10px;
+            padding:20px;
+            margin-left: 150px;
+         }
+
+         #p1{
+            float: right;
+         }
+         #b1{
+            color: yellow;
+            background-color:#451207 ;
+            width:200px;
+            height:100px;
+            float:left;
+            margin-top: 70px;
+            text-align: center;
+            padding:15px;
+            margin-left:20px;
+           
+         }
+         /* b1::after{
+            content:"";
+            clear:both;
+            display:block;
+         } */
+
+         #c1{
+            float:left;
+            margin-left: 90px;
+            height:200px;
+            width:200px;
+            margin-top: 80px;
+            
+         }
+         #c2{
+            float:left;
+            margin-left: 90px;
+            height:200px;
+            width:200px;
+            margin-top: 80px;
+         }
+         #c3{
+            float:left;
+            margin-left: 90px;
+            height:200px;
+            width:200px;
+            margin-top: 80px;
+         }
+         #c4{
+            float:left;
+            margin-left: 90px;
+            height:200px;
+            width:200px;
+            margin-top: 80px;
+         }
+
+         main{
+           
+            float:left;
+         }
+         #t2{
+            border-radius: 50%;
+         }
+         .d5{
+            margin-left: 20px;
+         }
+    </style>
+ </head>
+
+ <body id="d1" >
+        <header id="h1">
+        <a href="#"  id="a1">TACOS</a>
+        <a href="#"id="a2">WINES</a>
+        <a href="#" id="a3" >DESSERTS</a>
+        <a href="#" id="a4">BEERS</a>
+        <a href="#" id="a5">RESERVATIONS</a>
+   
+    </header>
+<br><br>
+  
+    <main>
+        
+<img src="./resources/project_img.jpg/taco.jpg" id="m1">
+<div class="d5">
+<p >The Mexican Cafe is a one-stop destination for all people who are in love with authentic Mexican
+     culinary and crave for it. This fine dining restaurant has a premium menu which is in line with the
+      larger than life ambiance. The exotic collection of signature drinks paired up with a spectacular outdoor 
+      seating instantly elevates your mood.</p>
+    
+<p>The signature dish - braised Pork Taco's is the crowd's favorite and really flavourful cooked in true Mexican cooking style.</p>
+<p>Enjoy the fantastic dance floor. Hire a DJ to set the mood for a party.</p></div>
+    <div id="b1"> <img src="./resources/project_img.jpg/taco1-icon.PNG" height="80px" width="80px"  id="t2" ><br>Tacos at $12.99</br></div>
+    <div id="b1">  <img src="./resources/project_img.jpg/chipotle1-icon.jpg" height="80px" width="80px"  id="t2"> <br>Chipotle at $24.99</br></div>
+    <div id="b1"> <img src="./resources/project_img.jpg/nachos1-icon.PNG" height="80px" width="80px" id="t2"> <br>Nachos at $10.99 </br></div>
+
+</main>
+
+    <footer id="f1">
+       <div id="c1"><img src="./resources/project_img.jpg/icons8-musical-notes-96.png"> <p>Enjoy the Music with food and frolic</p></div>
+    <div id="c2"> <img src="./resources/project_img.jpg/icons8-karaoke-100.png"><p>Sing out loud to the music with delight</p> </div>
+    <div id="c3"> <img src="./resources/project_img.jpg/icons8-dance-floor-100.png"> <p>Hit the dance floor and groove to the latest hits</p></div>
+    <div id="c4"> <img src="./resources/project_img.jpg/icons8-dj-100.png"><p>Enjoy an evening with the DJs</p> </div>
+</footer> 
+
+ </body>
+ </html>
