@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+ <html lang="en">
+ <head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Document</title>
+   <style>
+   #d1{
+    background-color:#262626 ;
+    height:100vh;
+  
+}
+   #m1{
+   
+  width: 250px;
+ height:170px;
+ padding:10px;
+
+      }
+h1{
+   text-align: center;
+   font-size: 40px;
+   font-family: serif;
+   color: whitesmoke;
+   border-bottom:2px solid whitesmoke ;
+   padding-bottom:10px;
+}
+h2{
+   color: whitesmoke;
+   padding-left:10px;
+   font-family: serif;
+}
+
+#p1{
+   font-family:Fraunces;
+   color: yellowgreen;
+   padding-left:10px;
+ 
+}
+   </style>
+ </head>
+ <body>
+   <div id="d1">
+      <center>
+      <img src="./resources/tasty_/item1.jpg" id="m1">
+      <img src="./resources/tasty_/item2.jpg" id="m1">
+      <img src="./resources/tasty_/item3.jpg" id="m1">
+   </center>
+      <h1>Tasty Delights</h1>
+      <h2>The Restaurant</h2>
+      <p id="p1">The Tasty Delights offers casual lunch and dinner fare in a hip atmosphere.The menu changes regularly to highlight the freshest ingredients.</p>
+      <h2>Catering</h2>
+      <p id="p1">You have fun..we'll handle the cooking.
+         The Tasty Delights can handle events from snacks for bridge club to elegant corporate fundraisers.
+      </p>
+      <h2>Location and Hours</h2>
+      <p id="p1">Lowell Massachusetts;<br>
+      Monday through Saturday 11am to 9pm,<br>
+      Friday and Saturday,11am to midnight</p> 
+ </div> 
+ </body>
+ </html>
